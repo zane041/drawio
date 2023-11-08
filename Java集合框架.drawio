@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T14:02:23.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yqwV9Dx5SayUX6RXXPbj" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T13:01:05.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3oA7Yipw5wmYUKcFE_4N" version="22.0.8" type="github">
   <diagram name="第 1 页" id="_yoRdVO-M5kAb3ZGSdLg">
     <mxGraphModel dx="1050" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#67AB9F" math="0" shadow="0">
       <root>
@@ -195,6 +195,15 @@
         </mxCell>
         <mxCell id="j6J67cVJdbYCxP4RGrpl-51" value="Arrays" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1017" y="563" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yvIEjLLD4GE3qTpm_Jyn-1" value="ArrayDeque" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="768" y="476" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yvIEjLLD4GE3qTpm_Jyn-3" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yvIEjLLD4GE3qTpm_Jyn-1" target="j6J67cVJdbYCxP4RGrpl-30">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="526" y="486" as="sourcePoint" />
+            <mxPoint x="551" y="313" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
